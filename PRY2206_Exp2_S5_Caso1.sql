@@ -1,7 +1,7 @@
 /* ==============================================================
-   PRY2206 - Programaci&oacute;n de Bases de Datos
+   PRY2206 - Programación de Bases de Datos
    Experiencia 2 - Semana 5
-   Caso 1: C&aacute;lculo de asignaciones mensuales para los
+   Caso 1: Cálculo de asignaciones mensuales para los
    profesionales de Dolphin Consulting
    ============================================================== */
 
